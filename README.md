@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @Boubajoker!
-- 👀 Je suis intersé par le dévelopement web et le dévelopement en python
-- 🌱 Je suis en train d'apprendre le language de programation: Python.
+- 👀 Je suis intersé par le dévelopement web et la programation!
+- 🌱 Je suis en train d'apprendre le language de programation: Python...
 - 💞️ Je cherche a fonder plus tard mon entreprise!
 - 📫 How to reach me ...
 
