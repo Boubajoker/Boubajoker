@@ -2,7 +2,12 @@
 - 👀 Je suis intersé par le dévelopement web et la programation!
 - 🌱 Je suis en train d'apprendre le language de programation: Python...
 - 💞️ Je cherche a fonder plus tard mon entreprise!
-- 📫 How to reach me ...
+- 📫 How to reach me ..
+
+# bad news!
+
+Oh no! My computer lost all his data :cry: ! But don't worry! 
+All my important project are saved in private Repository !
 
 <!---
 Boubajoker/Boubajoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
