@@ -1,7 +1,7 @@
-- 👋 Salut, je suis @Boubajoker!
-- 👀 Je suis intersé par le dévelopement web et la programation!
-- 🌱 Je suis en train d'apprendre le language de programation: Python...
-- 💞️ Je cherche a fonder plus tard mon entreprise!
+- 👋 Hi, My name is @Boubajoker!
+- 👀 I'm interrseted by web-desvellopement!
+- 🌱 I'm learning the programing language C++...
+- 💞️ I want to build an eneterprise later !
 - 📫 How to reach me ..
 <!---
 Boubajoker/Boubajoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
