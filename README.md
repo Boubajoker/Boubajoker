@@ -1,5 +1,5 @@
 - 👋 Hi, My name is @Boubajoker!
-- 👀 I'm interrseted by web-desvellopement!
+- 👀 I'm interrseted by web-devellopement!
 - 🌱 I'm learning the programing language C++...
 - 💞️ I want to build an eneterprise later !
 - 📫 How to reach me ..
