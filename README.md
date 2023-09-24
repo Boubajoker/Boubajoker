@@ -1,4 +1,4 @@
-#More about me 🙋🏾‍♂️ !
+# More about me 🙋🏾‍♂️ !
 
 - 👋🏾 Hi, My name is @Boubajoker!
 - 👀 I'm interested in programming and computers 💻!
