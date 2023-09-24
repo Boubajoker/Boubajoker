@@ -1,8 +1,10 @@
-- 👋 Hi, My name is @Boubajoker!
-- 👀 I'm interrseted by web-devellopement!
-- 🌱 I'm learning the programing language C++...
-- 💞️ I want to build an eneterprise later !
-- 📫 How to reach me ..
+#More about me 🙋🏾‍♂️ !
+
+- 👋🏾 Hi, My name is @Boubajoker!
+- 👀 I'm interested in programming and computers 💻!
+- 🌱 I'm currently learning the programing language C++...
+- 💞️ I want to build a company !
+- 🏀 I practice and love basketball !
 <!---
 Boubajoker/Boubajoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
